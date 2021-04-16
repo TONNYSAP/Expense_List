@@ -1,3 +1,3 @@
 # Expense_List
-Unzip
-To open it you need to double-click on the index.html
+Unzip;
+To open it you need to double-click on the index.html.
